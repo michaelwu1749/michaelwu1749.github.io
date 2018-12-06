@@ -1,5 +1,5 @@
 # Site
-name: "Michaelwu"
+name: Michaelwu's Blog
 description: "資工筆記和一些日常瑣事"
 meta_description: "Computer Science && life talk"."
 logo: 'assets/images/logo.png'
@@ -12,8 +12,8 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Michaelwu
+    display_name: Michaelwu
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
