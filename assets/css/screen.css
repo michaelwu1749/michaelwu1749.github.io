@@ -586,7 +586,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
  @media (min-width:768px) {
      .jumbotron.fortags {
-         margin-bottom:-10px;
+         margin-bottom:-0px;
          margin-top: 3rem;
          padding:0;
          height:350px;
