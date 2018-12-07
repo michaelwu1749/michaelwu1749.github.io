@@ -581,7 +581,7 @@ License: https://www.wowthemes.net/freebies-license/
     max-width:100%;
 }
 .transpdark {    
-    background: rgba(255, 255, 255, 0.164);
+    background: rgba(0,0,0,0.75);
     color: #fff;
 }
  @media (min-width:768px) {
@@ -595,7 +595,7 @@ License: https://www.wowthemes.net/freebies-license/
          background-size:cover;
     }
      .jumbotron.fortags .col-md-4 {
-         background:rgba(255, 255, 255, 0.164);
+         background:rgba(0,0,0,0.75);
          color:#fff;
     }
      .jumbotron.fortags .row {
